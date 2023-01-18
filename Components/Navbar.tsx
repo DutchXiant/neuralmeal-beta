@@ -5,10 +5,6 @@ export default function Navbar() {
 
 
 
-    const isClicked = (e) =>  {
-        e.preventDefault(); 
-        console.log('Wa')
-    }
 
 
   return (
